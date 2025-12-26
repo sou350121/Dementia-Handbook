@@ -14,9 +14,11 @@
 - [Axis D: Technological Methods](core/axis_d_tech_methods.md) - 空間轉錄組 (Spatial Omics) 與 AI 藥物篩選。
 - [Axis E: Environmental Neuro-Toxicology](core/axis_e_env_toxicology.md) - 微塑料 (MNPs) 與環境污染對大腦的影響。
 - [Axis F: AI & Bio-Machine Intelligence](core/axis_f_ai_bio_intelligence.md) - 大模型、蛋白質語言模型與物理信息神經網絡在生物中的應用。
-- **[Axis G: Circadian & Sleep Dynamics](core/axis_g_circadian_sleep.md)** - 晝夜節律與類淋巴清除系統。
-- **[Axis H: Vascular-Neurovascular Interface](core/axis_h_vascular_interface.md)** - 周細胞退化與血腦屏障滲漏。
-- **[Axis I: Bio-Energies & Metabolism](core/axis_i_metabolic_reprogramming.md)** - 大腦胰島素抵抗與代謝重編程。
+- [Axis G: Circadian & Sleep Dynamics](core/axis_g_circadian_sleep.md) - 晝夜節律與類淋巴清除系統。
+- [Axis H: Vascular-Neurovascular Interface](core/axis_h_vascular_interface.md) - 周細胞退化與血腦屏障滲漏。
+- [Axis I: Bio-Energies & Metabolism](core/axis_i_metabolic_reprogramming.md) - 大腦胰島素抵抗與代謝重編程。
+- **[Axis J: Ocular-Brain Connection](core/axis_j_ocular_brain.md)** - 視網膜作為大腦健康窗口與超早期診斷。
+- **[Axis K: Senescence & Epigenetic Editing](core/axis_k_epigenetic_editing.md)** - 細胞衰老、SASP 與 CRISPR 表觀遺傳重編程。
 
 ### 2. 研究線索深度解析 (Research Intelligence)
 #### 2024 Breakthroughs
@@ -26,6 +28,9 @@
 
 #### 2025 Intelligence
 - [Nature 2025: p-tau217 as Gold Standard](reports/2025/nature_2025_ptau217_biomarker.md)
+- **[Nature 2025: Retina Microvascular Mapping](reports/2025/nature_2025_retina_biomarker.md)**
+- **[Cell 2025: Lipid-Laden Microglia (LDAM)](reports/2025/cell_2025_lipid_microglia.md)**
+- **[Science 2025: Senolytic Intervention for AD](reports/2025/science_2025_senolytics_ad.md)**
 - [Nature 2025: Wildfire Smoke & AD Risk](reports/2025/nature_2025_wildfire_pm25.md)
 - [Nature 2025: Exercise & Genomic Reversal](reports/2025/nature_2025_exercise_genomics.md)
 - [Nature 2025: 40Hz Sensory Neuromodulation](reports/2025/non_invasive_neuromodulation_2025.md)
