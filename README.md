@@ -1,32 +1,35 @@
-# 腦退化病研究系統 (Dementia Research System - DRS)
+# Dementia Research Handbook: Theory & Clues
 
-> 一個系統化、模組化且可擴展的研究與學習環境，專注於腦退化病 (Dementia) 與相關神經科學。
-
-## 🎯 願景 (Vision)
-本倉庫旨在建立一個結構化的「知識庫」，整合臨床醫學、神經病理學以及現代 AI 診斷技術。透過模組化的方式，方便研究人員與醫學生快速檢索、更新並協作研究。
-
-## 📂 項目結構 (Project Structure)
-```text
-.
-├── README.md               # 項目概覽與導航
-├── SYLLABUS.md             # 系統化研究路徑 (Research Roadmap)
-├── modules/                # 核心研究模組 (Research Modules)
-│   ├── 01_intro_dementia.md
-│   ├── 02_neuropathology.md
-│   └── ...
-├── data/                   # 結構化數據 (如 Biomarkers 數據集)
-└── assets/                 # 腦部影像 (Brain Imaging)、圖表與媒體資源
-```
-
-## 🚀 開始研究 (Getting Started)
-1. 從 [SYLLABUS.md](SYLLABUS.md) 開始，了解研究地圖。
-2. 閱讀 [模組 01：腦退化病導論 (Module 01: Introduction)](modules/01_intro_dementia.md)。
-3. 使用大綱中的進度表追蹤研究深度。
-
-## 🛠️ 如何協作 (How to Collaborate)
-- **新增研究筆記**：在 `modules/` 下建立新的 `.md` 文件。
-- **引用文獻**：請確保在模組末尾列出參考文獻 (References)。
-- **數據分析**：可在 `data/` 下存放相關的 CSV 或 JSON 統計數據。
+> **Intelligence-driven Research Framework**
+> Systematic analysis of Nature, Science, and Cell (NSC) 2024-2025 breakthroughs to identify high-potential research directions.
 
 ---
-*免責聲明：本內容僅供科研與教學參考。臨床診斷請諮詢專業神經科醫生。*
+
+## 📂 核心架構 (Core Structure)
+
+### 1. 理論基礎與前沿 (Theory & Frontiers)
+- [Axis A: Proteostasis & Proteinopathy](theory/axis_a_proteostasis.md) - Aβ/Tau 動力學與清除機制。
+- [Axis B: Neuro-Immunology](theory/axis_b_neuro_immunology.md) - 微膠質細胞 (Microglia) 異質性與免疫軸。
+- [Axis C: Systemic Axis](theory/axis_c_systemic_axis.md) - 腸腦軸 (Gut-Brain) 與運動誘導的基因重編程。
+- [Axis D: Technological Methods](theory/axis_d_tech_methods.md) - 空間轉錄組 (Spatial Omics) 與 AI 藥物篩選。
+- [Axis E: Environmental Neuro-Toxicology](theory/axis_e_env_toxicology.md) - 微塑料 (MNPs) 與環境污染對大腦的影響。
+
+### 2. 研究線索深度解析 (Research Intelligence)
+- [Nature 2025: Exercise & Genomic Reversal](research-clues/nature_2025_exercise_genomics.md)
+- [Cell 2024: Tau Aggregation Kinetics](research-clues/cell_2024_tau_kinetics.md)
+- [Science 2025: Neuro-Immune Niche Mapping](research-clues/science_2025_neuro_immune_niche.md)
+
+### 3. 研究策略 (Strategy)
+- [Research Logic Matrix: Inter-Axis Interaction](roadmap/logic_matrix.md)
+- [2025+ Research Strategy & Blue Oceans](RESEARCH_STRATEGY.md)
+
+---
+
+## 🛠️ 研究者協作 (Researcher Protocol)
+- **High Density**: 筆記應保持高資訊密度，優先記錄方法論創新 (Methodological Innovation) 與數據缺口 (Data Gaps)。
+- **Logic Trace**: 每一篇論文必須標註其在現有範式 (Paradigm) 中的邏輯位置。
+- **Actionable Clues**: 結尾必須提出 1-2 個可被後續實驗驗證的假設。
+
+---
+*Disclaimer: For academic research and professional reference only.*
+
