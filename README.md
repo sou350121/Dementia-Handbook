@@ -7,44 +7,49 @@
 
 ## 📂 核心架構 (Core Structure)
 
-### 1. 理論基礎與前沿 (Theory & Frontiers)
-- [Axis A: Proteostasis & Proteinopathy](theory/axis_a_proteostasis.md) - Aβ/Tau 動力學與清除機制。
-- [Axis B: Neuro-Immunology](theory/axis_b_neuro_immunology.md) - 微膠質細胞 (Microglia) 異質性與免疫軸。
-- [Axis C: Systemic Axis](theory/axis_c_systemic_axis.md) - 腸腦軸 (Gut-Brain) 與運動誘導的基因重編程。
-- [Axis D: Technological Methods](theory/axis_d_tech_methods.md) - 空間轉錄組 (Spatial Omics) 與 AI 藥物篩選。
-- [Axis E: Environmental Neuro-Toxicology](theory/axis_e_env_toxicology.md) - 微塑料 (MNPs) 與環境污染對大腦的影響。
-- [Axis F: AI & Bio-Machine Intelligence](theory/axis_f_ai_bio_intelligence.md) - 大模型、蛋白質語言模型與物理信息神經網絡在生物中的應用。
+### 1. 理論基礎與前�?(Theory & Frontiers)
+- [Axis A: Proteostasis & Proteinopathy](core/axis_a_proteostasis.md) - Aβ/Tau 動力學與清除機制�?
+- [Axis B: Neuro-Immunology](core/axis_b_neuro_immunology.md) - 微膠質細�?(Microglia) 異質性與免疫軸�?
+- [Axis C: Systemic Axis](core/axis_c_systemic_axis.md) - 腸腦�?(Gut-Brain) 與運動誘導的基因重編程�?
+- [Axis D: Technological Methods](core/axis_d_tech_methods.md) - 空間轉錄�?(Spatial Omics) �?AI 藥物篩選�?
+- [Axis E: Environmental Neuro-Toxicology](core/axis_e_env_toxicology.md) - 微塑�?(MNPs) 與環境污染對大腦的影響�?
+- [Axis F: AI & Bio-Machine Intelligence](core/axis_f_ai_bio_intelligence.md) - 大模型、蛋白質語言模型與物理信息神經網絡在生物中的應用�?
 
 ### 2. 研究線索深度解析 (Research Intelligence)
-- [NSC 2024-2025 Flagship Collection](research-clues/nsc_2024_2025_collection.md)
-- [Nature 2024: GSDMD & BBB Disruption](research-clues/nature_2024_gsdmd_bbb.md)
-- [Nature 2024: 40Hz Sensory Neuromodulation](research-clues/non_invasive_neuromodulation_2025.md)
-- [Advanced: 2025 Brain Digital Twin (BDT) Framework](research-clues/brain_digital_twin_2025.md)
-- [Nature 2025: Wildfire Smoke & AD Risk](research-clues/nature_2025_wildfire_pm25.md)
-- [Science Adv 2025: Noise Pollution & Glymphatic Failure](research-clues/science_2025_noise_glymphatic.md)
-- [Advanced: AI Simulation of PM2.5 BBB Penetration](research-clues/ai_pm25_bbb_simulation.md)
-- [Advanced: Systemic Clearance of Env Toxins](research-clues/systemic_clearance_env_toxins.md)
-- [Advanced: Spatial Omics of Noise Impact](research-clues/spatial_omics_noise_impact.md)
-- [Advanced: AI Prediction of Metal-Induced Progression](research-clues/ai_metal_exposure_prediction.md)
-- [Nature Neuro 2025: Heavy Metals Meta-Analysis](research-clues/nature_2025_heavy_metals.md)
-- [Nature Comm 2025: Pesticides & Neuroinflammation](research-clues/pesticides_neuroinflammation_2025.md)
-- [Nature 2025: Exercise & Genomic Reversal](research-clues/nature_2025_exercise_genomics.md)
-- [Cell 2024: Tau Aggregation Kinetics](research-clues/cell_2024_tau_kinetics.md)
-- [Science 2025: Neuro-Immune Niche Mapping](research-clues/science_2025_neuro_immune_niche.md)
-- [Deep Dive: Microplastics & BBB Damage](research-clues/mnp_bbb_interaction.md)
-- [Quantitative Modeling: Liver-Brain-Plastic Axis](research-clues/liver_brain_plastic_axis.md)
+#### 2024 Breakthroughs
+- [Cell 2024: Tau Aggregation Kinetics](reports/2024/cell_2024_tau_kinetics.md)
+- [Nature 2024: GSDMD & BBB Disruption](reports/2024/nature_2024_gsdmd_bbb.md)
 
-### 3. 研究策略與工具 (Strategy & Tools)
-- [Research Logic Matrix: Inter-Axis Interaction](roadmap/logic_matrix.md)
-- [Dementia Research Terminology (專業術語對照表)](TERMINOLOGY.md)
-- [2025+ Research Strategy & Blue Oceans](RESEARCH_STRATEGY.md)
+#### 2025 Intelligence
+- [Nature 2025: Wildfire Smoke & AD Risk](reports/2025/nature_2025_wildfire_pm25.md)
+- [Nature 2025: Exercise & Genomic Reversal](reports/2025/nature_2025_exercise_genomics.md)
+- [Nature 2025: 40Hz Sensory Neuromodulation](reports/2025/non_invasive_neuromodulation_2025.md)
+- [Science 2025: Neuro-Immune Niche Mapping](reports/2025/science_2025_neuro_immune_niche.md)
+- [Science Adv 2025: Noise Pollution & Glymphatic Failure](reports/2025/science_2025_noise_glymphatic.md)
+- [Nature Neuro 2025: Heavy Metals Meta-Analysis](reports/2025/nature_2025_heavy_metals.md)
+- [Nature Comm 2025: Pesticides & Neuroinflammation](reports/2025/pesticides_neuroinflammation_2025.md)
+
+#### Advanced Simulations & Cross-Axis
+- [Brain Digital Twin (BDT) Framework](reports/advanced/brain_digital_twin_2025.md)
+- [AI Simulation of PM2.5 BBB Penetration](reports/advanced/ai_pm25_bbb_simulation.md)
+- [Systemic Clearance of Env Toxins](reports/advanced/systemic_clearance_env_toxins.md)
+- [Spatial Omics of Noise Impact](reports/advanced/spatial_omics_noise_impact.md)
+- [AI Prediction of Metal-Induced Progression](reports/advanced/ai_metal_exposure_prediction.md)
+- [Microplastics & BBB Damage](reports/advanced/mnp_bbb_interaction.md)
+- [Quantitative Modeling: Liver-Brain-Plastic Axis](reports/advanced/liver_brain_plastic_axis.md)
+
+### 3. 研究策略與工�?(Strategy & Tools)
+- [Research Logic Matrix: Inter-Axis Interaction](strategy/logic_matrix.md)
+- [Dementia Research Terminology (專業術語對照�?](reference/terminology.md)
+- [NSC 2024-2025 Flagship Collection](reference/nsc_collection.md)
+- [2025+ Research Strategy & Blue Oceans](strategy/research_strategy.md)
 
 ---
 
-## 🛠️ 研究者協作 (Researcher Protocol)
-- **High Density**: 筆記應保持高資訊密度，優先記錄方法論創新 (Methodological Innovation) 與數據缺口 (Data Gaps)。
-- **Logic Trace**: 每一篇論文必須標註其在現有範式 (Paradigm) 中的邏輯位置。
-- **Actionable Clues**: 結尾必須提出 1-2 個可被後續實驗驗證的假設。
+## 🛠�?研究者協�?(Researcher Protocol)
+- **High Density**: 筆記應保持高資訊密度，優先記錄方法論創新 (Methodological Innovation) 與數據缺�?(Data Gaps)�?
+- **Logic Trace**: 每一篇論文必須標註其在現有範�?(Paradigm) 中的邏輯位置�?
+- **Actionable Clues**: 結尾必須提出 1-2 個可被後續實驗驗證的假設�?
 
 ---
 *Disclaimer: For academic research and professional reference only.*
