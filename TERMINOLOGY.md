@@ -23,6 +23,9 @@
 | **MNPs (Micro/Nanoplastics)** | 微塑料與奈米塑料 | Axis E | 環境中直徑 <5mm (Micro) 或 <1μm (Nano) 的塑料碎片，能穿透 BBB 進入大腦。 |
 | **Protein Corona** | 生物冠 | Axis E | 進入生物體的塑料顆粒表面吸附的一層血漿蛋白，決定了其生物學歸宿與穿透力。 |
 | **GSDMD (Gasdermin D)** | 細胞焦亡蛋白 | Axis B/E | 被激活後在細胞膜上形成孔道，引發細胞焦亡並導致 BBB 完整性破裂。 |
+| **Ferroptosis** | 鐵死亡 | Axis E/B | 一種依賴於鐵的程序性細胞死亡形式，常由重金屬暴露引發的氧化應激觸發。 |
+| **Histone Acetylation** | 組蛋白乙酰化 | Axis E/C | 一種表觀遺傳修飾，農藥暴露可透過此機制長期「啟動」免疫細胞。 |
+| **Noise-induced Arousal** | 噪音誘導覺醒 | Axis E/A | 噪音導致藍斑核釋放去甲腎上腺素，物理性關閉類淋巴清除系統。 |
 | **Digital Twin** | 數位孿生 | Axis D/F | 建立患者大腦的虛擬模型，整合多組學數據以模擬病程發展與藥物反應。 |
 | **Epigenetic Mapping** | 表觀遺傳圖譜 | Axis C | 記錄基因表達受環境影響（而非基因序列改變）的修飾狀態（如 DNA 甲基化）。 |
 | **scMulti-omics** | 單細胞多組學 | Axis D | 同時在單個細胞中測量轉錄組、蛋白質組、表觀組等多個維度的數據。 |
