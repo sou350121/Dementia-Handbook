@@ -14,6 +14,9 @@
 - [Axis D: Technological Methods](core/axis_d_tech_methods.md) - 空間轉錄組 (Spatial Omics) 與 AI 藥物篩選。
 - [Axis E: Environmental Neuro-Toxicology](core/axis_e_env_toxicology.md) - 微塑料 (MNPs) 與環境污染對大腦的影響。
 - [Axis F: AI & Bio-Machine Intelligence](core/axis_f_ai_bio_intelligence.md) - 大模型、蛋白質語言模型與物理信息神經網絡在生物中的應用。
+- **[Axis G: Circadian & Sleep Dynamics](core/axis_g_circadian_sleep.md)** - 晝夜節律與類淋巴清除系統。
+- **[Axis H: Vascular-Neurovascular Interface](core/axis_h_vascular_interface.md)** - 周細胞退化與血腦屏障滲漏。
+- **[Axis I: Bio-Energies & Metabolism](core/axis_i_metabolic_reprogramming.md)** - 大腦胰島素抵抗與代謝重編程。
 
 ### 2. 研究線索深度解析 (Research Intelligence)
 #### 2024 Breakthroughs
