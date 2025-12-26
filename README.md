@@ -12,7 +12,7 @@
 - [Axis B: Neuro-Immunology](core/axis_b_neuro_immunology.md) - 微膠質細胞 (Microglia) 異質性與免疫軸。
 - [Axis C: Systemic Axis](core/axis_c_systemic_axis.md) - 腸腦軸 (Gut-Brain) 與運動誘導的基因重編程。
 - [Axis D: Technological Methods](core/axis_d_tech_methods.md) - 空間轉錄組 (Spatial Omics) 與 AI 藥物篩選。
-- [Axis E: Environmental Neuro-Toxicology](core/axis_e_env_toxicology.md) - 微塑料 (MNPs) 與環境污染對大腦的影響。
+- [Axis E: 環境污染對大腦的影響](core/axis_e_env_toxicology.md) - 空氣污染、微塑料與環境化學物質的影響。
 - [Axis F: AI & Bio-Machine Intelligence](core/axis_f_ai_bio_intelligence.md) - 大模型、蛋白質語言模型與物理信息神經網絡在生物中的應用。
 - [Axis G: Circadian & Sleep Dynamics](core/axis_g_circadian_sleep.md) - 晝夜節律與類淋巴清除系統。
 - [Axis H: Vascular-Neurovascular Interface](core/axis_h_vascular_interface.md) - 周細胞退化與血腦屏障滲漏。

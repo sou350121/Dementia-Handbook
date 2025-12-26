@@ -1,11 +1,11 @@
-# Axis I: Bio-Energies & Metabolic Reprogramming (生物能量與代謝重編程)
+# Axis I: Bio-Energies & Metabolic Reprogramming (生物能量与代谢重编程)
 
-## 1. 核心邏輯 (Core Logic)
-阿茲海默症被廣泛認為是大腦的「3 型糖尿病」。神經元在面臨病理蛋白壓力時，其底層能量代謝機制會發生從「高效」到「損耗」的病理性重編程 (Metabolic Reprogramming)。
+## 1. 核心逻辑 (Core Logic)
+阿兹海默症被广泛认为是大脑的“3 型糖尿病”。神经元在面临病理蛋白压力时，其底层能量代谢机制会发生从“高效”到“损耗”的病理性重编程 (Metabolic Reprogramming)。
 
 ---
 
-## 2. 邏輯架構圖 (ASCII Framework)
+## 2. 逻辑架构图 (ASCII Framework)
 
 ```text
     [ Metabolic Health ] <----(Axis C: Gut-Brain)
@@ -26,28 +26,27 @@
 
 ---
 
-## 3. 關鍵機制 (Key Mechanisms)
+## 3. 关键机制 (Key Mechanisms)
 
-### A. 大腦胰島素抵抗
-- **機制**：神經元表面胰島素受體失能，導致葡萄糖攝取不足。神經元被迫處於飢餓狀態，這直接觸發了 Tau 蛋白的過度磷酸化 (Axis A) 以尋求結構穩定。
-- **2024 線索**：糖原 (Glycogen) 在神經元內的異常蓄積是代謝崩潰的早期信號，而非保護措施。
+### A. 大脑胰岛素抵抗
+- **机制**：神经元表面胰岛素受体失能，导致葡萄糖摄取不足。神经元被迫处于饥饿状态，这直接触发了 Tau 蛋白的过度磷酸化 (Axis A) 以寻求结构稳定。
+- **2024 线索**：糖原 (Glycogen) 在神经元内的异常蓄积是代谢崩溃的早期信号，而非保护措施。
 
-### B. 代謝底層路徑的病理轉換
-- **機制**：神經元通常燃燒葡萄糖。在 AD 狀態下，神經元轉向燃燒脂肪酸，這雖然能提供臨時能量，但會產生大量的過氧化物 (ROS)，直接損傷線粒體 DNA。
-- **2025 情報**：神經元的糖代謝路徑與非神經細胞存在本質差異，靶向特定的代謝酶 (如 HK1) 可能是未來的治療方向。
-
----
-
-## 4. 跨軸線交互 (Cross-Axis Interaction)
-- **Axis I x Axis C**：腸道微生物生成的短鏈脂肪酸 (SCFAs) 是重要的遠程代謝調節因子，能改善大腦的胰島素敏感性。
-- **Axis I x Axis F**：利用 AI 模擬不同代謝酶抑制劑對神經元 ATP 產出的動態影響。
+### B. 代谢底层路径的病理转换
+- **机制**：神经元通常燃烧葡萄糖。在 AD 状态下，神经元转向燃烧脂肪酸，这虽然能提供临时能量，但会产生大量的过氧化物 (ROS)，直接损伤线粒体 DNA。
+- **2025 情报**：神经元的糖代谢路径与非神经细胞存在本质差异，靶向特定的代谢酶 (如 HK1) 可能是未来的治疗方向。
 
 ---
 
-## 5. 參考文獻 (References)
+## 4. 跨轴线交互 (Cross-Axis Interaction)
+- **Axis I x Axis C**：肠道微生物生成的短链脂肪酸 (SCFAs) 是重要的远程代谢调节因子，能改善大脑的胰岛素敏感性。
+- **Axis I x Axis F**：利用 AI 模拟不同代谢酶抑制剂对神经元 ATP 产出的动态影响。
+
+---
+
+## 5. 参考文献 (References)
 - **Durán, J., et al. (2024).** Neuronal glycogen accumulation and AD progression. *Nature Metabolism*.
 - **Tan, M. S., et al. (2025).** Metabolic reprogramming of the brain in neurodegeneration. *Cell Metabolism*.
 
 ---
-[回到目錄](../README.md)
-
+[回到目录](../README.md)

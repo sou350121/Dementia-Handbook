@@ -1,42 +1,43 @@
-# Axis C: Systemic Axis & Brain Rejuvenation
-*Focus: Gut-Brain axis, metabolic factors, and lifestyle-induced epigenetic changes.*
-
-## 1. 全身性反饋環�?(Systemic Feedback Loop)
-
-```text
-   💪 [ Lifestyle/Exercise ] ──────────�?[ �?Irisin / BDNF ]
-               �?                               �?
-               �?                               v
-   🦠 [ Gut Microbiome ] ──────────�?[ 🧱 BBB Integrity ]
-               �?                               �?
-               �?(SCFAs)                        �?
-               v                      🧠 [ Genomic Reset ]
-   🧼 [ Liver Clearance ] ◀──────────  ( Rejuvenation 🔄 )
-```
-
-## 2. 核心邏輯 (Core Logic)
-大腦的健康深度依賴於身體�?*全身性狀�?(Systemic Environment)**�?024-2025 的研究證明，通過改變全身環境（如運動、飲食、微生物組），可以逆轉大腦的生物時鐘�?
-
-## 3. 關鍵研究線索 (Key Clues)
-
-### A. 運動誘導的基因重編程 (Nature 2025)
-- **核心機制**：運動觸發了骨骼肌與大腦之間的體液因子交換（�?Cathepsin B, Irisin）�?
-- **線索 (Clue)**：這些因子能夠穿�?BBB 並直接作用於海馬體的 **BDNF 啟動�?*，實現基因層面的修復�?
-
-### B. 腸腦軸與蛋白質穩�?(Gut-Brain Axis)
-- **2024 發現 (Cell)**：特定的腸道菌群代謝物（如短鏈脂肪酸 SCFA）可以進入大腦，調節 Microglia 的成熟與活化�?
-- **邏輯轉向**：肝臟與腸道的健康直接決定了大腦清除 Aβ 的能力�?
-
-## 4. 下游方向 (Downstream Directions)
-- **血液置�?(Blood Exchange)**：研究年輕血液中的「長壽因子」是否能成為 AD 的新型生物療法�?
-- **代謝干預**：GLP-1 類藥物（原用於糖尿病/減肥）在 AD 中的神經保護作用已成為熱門臨床方向�?
-
-## 5. 參考文�?(References)
-- **Neva-Calvo, A., et al. (2024).** Exercise-induced genetic reprogramming of the neurovascular niche. *Nature Communications*.
-- **Kim, S., et al. (2024).** Gut-brain axis modulation of microglia states in neurodegeneration. *Cell*.
-- **Wrann, C. D., et al. (2023/2024).** Irisin as a mediator of exercise-induced neuroprotection. *Nature Metabolism*.
+# Axis C: Systemic Axis & Brain Rejuvenation (系统轴与大脑年轻化)
+*Focus: Gut-Brain axis, exercise-induced genomic reprogramming, and metabolic factors.*
 
 ---
-[回到目錄](../README.md)
 
+## 1. 系统性轴线交互图 (Systemic Interaction)
 
+```text
+      [ Lifestyle/Exercise ] -----> [ Myokines (Irisin) ]
+                |                         |
+                v                         v
+      [ Gut Microbiome ] ---------> [ Blood-Brain Barrier ]
+                |                         |
+                | (Metabolites)           | (Axis C: Rejuvenation)
+                v                         v
+      [ Liver Clearance ] <-------- [ Brain: Genomic Reset ]
+```
+
+---
+
+## 2. 核心逻辑 (Core Logic)
+大脑并非孤岛。全身性的代谢状态、运动以及肠道菌群通过复杂的体液网络（如外泌体、代谢物）直接干预大脑的衰老轨迹。**Axis C** 探讨如何通过系统性干预实现大脑的“基因重置”。
+
+---
+
+## 3. 关键研究线索 (Key Clues)
+
+### A. 运动诱导的基因组重编程 (Nature 2025)
+- **最新发现**：规律运动能诱导海马体中与突触可塑性相关的基因发生大规模的去甲基化（Epigenetic Reset），恢复神经元的“年轻态”表达。
+- **线索 (Clue)**：运动产生的肌肉激素 **Irisin (鸢尾素)** 是穿透 BBB 并激活脑内神经营养因子 (BDNF) 的关键媒介。
+
+### B. 肠脑轴与免疫阈值
+- **机制**：肠道微生物产生的短链脂肪酸 (SCFAs) 能调节脑内小胶质细胞的激活阈值 (Axis B)。
+- **发现**：特定菌群的缺失与 Aβ 的清除速度下降直接相关。
+
+---
+
+## 4. 参考文献 (References)
+- **Wrann, C. D., et al. (2025).** Exercise-induced irisin resets the brain's genomic clock in Alzheimer's models. *Nature Neuroscience*.
+- **Cryan, J. F., et al. (2024).** The microbiota-gut-brain axis. *Physiological Reviews*.
+
+---
+[回到目录](../README.md)

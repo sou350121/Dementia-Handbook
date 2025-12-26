@@ -1,46 +1,44 @@
-# Axis D: Technological Frontiers
-*Focus: Spatial omics, AI-driven diagnostics, and multi-modal neural modeling.*
-
-## 1. 多模態數據整合圖 (Multi-modal Integration)
-
-```text
-   [ 🎞�?MRI/Imaging ] ──�?         ╭────────────────────�?
-                        �?         �? 🧬 Spatial Omics  �?
-   [ 🩸 Blood Biomark ] ┼──────▶️  �?(Single-cell Niche)�?
-                        �?         ╰─────────┬──────────�?
-   [ ⌨️ Clinical Data ] ──�?                 �?
-                                             �?
-   ╭────────────────�?             ╭────────────────────�?
-   �? 🤖 AI Engine  �?──────────▶️  �?👤 Digital Twin    �?
-   �? (Transformer) �?             �? (Brain Modeling)  �?
-   ╰───────┬────────�?             ╰─────────┬──────────�?
-           �?                                �?
-           └───────────▶️ [ 🔮 Prediction ] ◀──�?
-```
-
-## 2. 核心邏輯 (Core Logic)
-技術的進步正在將腦退化研究從「靜態照片」轉向「動態電影」。目前的技術前沿在於如何將多維度（遺傳、影像、臨床數據）的數據進行 **語義化整�?*�?
-
-## 3. 關鍵研究線索 (Key Clues)
-
-### A. 空間轉錄組學 (Spatial Transcriptomics) 的普及化
-- **突破�?*：不再只是知道哪個基因表達了，而是知道它在哪個神經元「鄰居」旁邊表達�?
-- **2024-2025 應用**：鑑定出特定於斑塊周�?(Plaque-niche) �?Microglia 亞群，這在傳統的散�?RNA 定序 (Bulk RNA-seq) 中是不可見的�?
-
-### B. AI �?LLM 在神經網絡建模中的角�?
-- **2025 趨勢**：利�?Transformer 架構模擬腦細胞之間的信號傳導�?
-- **線索 (Clue)**：AI 可以通過分析患者的視網膜影像或言語語調變化，在臨床症狀出現�?10 年識別出退化跡象�?
-
-## 4. 下游方向 (Downstream Directions)
-- **Digital Twin (數字孿生)**：為患者建立腦部模擬模型，在模型上先行測試藥物反應�?
-- **High-Throughput Screening**：利�?AI 篩選能干�?Tau 聚合初級成核的小分子化合物�?
-
-## 5. 參考文�?(References)
-- **Ståhl, P. L., et al. (2024 updated).** Spatial transcriptomics for profiling the Alzheimer's brain. *Nature Protocols*.
-- **Troulé, K., et al. (2024).** CellPhoneDB v5: inferring cell-cell communication from single-cell multiomics data. *Nature Methods*.
-- **Chen, H., et al. (2025).** InstructBioMol: Multimodal large language models for understanding and designing biological molecules. *Nature Machine Intelligence*.
+# Axis D: Technological Frontiers (技术前沿)
+*Focus: Spatial Transcriptomics, Multi-omics, and AI-driven Diagnostics.*
 
 ---
-[回到目錄](../README.md)
 
+## 1. 技术语义映射图 (Technological Mapping)
 
+```text
+      [ Bulk Data ] ----+---- [ Spatial Omics ]
+                        |           |
+      (Genetics/Imaging)|           | (Axis D: Semantic Mapping)
+                        v           v
+      [ AI Model ] <----+---- [ Digital Twin ]
+           |                         |
+           +------(Predictions)------+
+                        |
+                        v
+              [ Early Biomarkers ]
+```
+
+---
+
+## 2. 核心逻辑 (Core Logic)
+传统研究受限于“局部”或“离散”的观察。**Axis D** 利用高维度数据采集（空间组学）与复杂的计算模型（AI 数字孪生），将大脑退行过程从“描述性”转向“预测性”。
+
+---
+
+## 3. 关键研究线索 (Key Clues)
+
+### A. 空间转录组学 (Spatial Transcriptomics)
+- **应用**：通过 MIBI 或 Visium 技术，我们不仅知道哪些基因在表达，还能精确看到它们在淀粉样斑块周边的空间分布（Neuro-immune Niche）。
+- **线索 (Clue)**：发现某些特定的微胶质细胞亚群仅存在于斑块边缘，这为精准靶向治疗提供了坐标。
+
+### B. 数字孪生与早期生物标志物
+- **突破**：利用 AI 整合血液 p-tau217 (Axis D)、MRI 影像与认知评分，可以提前 20 年预测失智症的发生概率。
+
+---
+
+## 4. 参考文献 (References)
+- **Chen, X., et al. (2025).** Spatial mapping of the neuro-immune niche in the human brain. *Nature*.
+- **Karikari, T. K., et al. (2024).** Blood-based biomarkers for Alzheimer's disease: Next generation of diagnostics. *The Lancet Neurology*.
+
+---
+[回到目录](../README.md)
