@@ -8,20 +8,22 @@
 ## 2. 逻辑架构图 (ASCII Framework)
 
 ```text
-    [ Metabolic Health ] <----(Axis C: Gut-Brain)
-            |
-    +-------+-------+
-    |               |
-[ Insulin Resist ] [ Substrate Shift ]
-        |               |
-        v               v
-[ Glucose Hypomet ] [ Fatty Acid Oxidation ] --(Axis E)--> [ ROS Overload ]
-        |               |                                  |
-        +-------+-------+                                  |
-                |                                          v
-                v                                   [ Mitochondrial Crisis ]
-        [ Energy Gap ] ---------------------------> [ Tau Phosphorylation ]
-        (ATP Shortage)                                (Axis A)
+    (🍏) Metabolic Health <─── (🦠) Axis C: Gut-Brain
+             |
+      ┌──────┴──────┐
+      |             |
+ (🛑) Insulin   (🔄) Substrate
+     Resist         Shift
+      |             |
+      v             v
+ (📉) Glucose   (🔥) FA Oxidation ──> (💥) ROS Overload
+     Hypomet        [Burning Fat]         (Axis E)
+      |             |                     |
+      └──────┬──────┘                     |
+             |                            v
+             v                     (🔋) Mitochondrial Crisis
+      (🕳️) Energy Gap  ─────────> (⚠️) Tau Phosphorylation
+      [ATP Shortage]                      (Axis A)
 ```
 
 ---

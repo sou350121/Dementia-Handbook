@@ -8,19 +8,20 @@
 ## 2. 逻辑架构图 (ASCII Framework)
 
 ```text
-      [ Circadian Rhythm ] <---(Bmal1 / Clock Genes)
+       (⏰) Circadian Clock [Bmal1 / Clock Genes]
                 |
-        +-------+-------+
+        ┌───────┴───────┐
         |               |
-  (Arousal Level)   (Glial Morphology)
+   (💤) Deep Sleep  (🏃) Awake State
         |               |
         v               v
-  [ Noradrenaline ] --(Inhibition)--> [ Glymphatic Space ]
-        |                                     |
-  (Axis E: Noise)                             | (Axis A: Clearance)
-        |                                     v
-        +----------------------------> [ Protein Accumulation ]
-                                       (Aβ / Tau Seeding)
+   (🌊) Glymphatic  (⚡) Noradrenaline
+       Flow [ON]       Release [OFF]
+        |               |
+        |               └───── (❌) Blockage
+        v                       v
+   (✨) Protein Clearance   (⚠️) Plaque Seeding
+       [Aβ / Tau Flush]        [Accumulation]
 ```
 
 ---
@@ -38,7 +39,7 @@
 ---
 
 ## 4. 跨轴线交互 (Cross-Axis Interaction)
-- **Axis G x Axis E**：环境噪音污染 (Axis E) 会通过触发“觉醒反应”持续释放去甲肾腺素，从而物理性地关闭 Axis G 的清除通道。
+- **Axis G x Axis E**：环境噪音污染 (Axis E) 会通过触发“觉醒反应”持续释放去甲腺素，从而物理性地关闭 Axis G 的清除通道。
 - **Axis G x Axis C**：日間运动 (Axis C) 可以增强夜间慢波睡眠的深度，从而间接促进类淋巴系统的清理。
 
 ---

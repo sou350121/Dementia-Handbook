@@ -6,15 +6,21 @@
 ## 1. 蛋白质稳态动力学图 (Logic Framework)
 
 ```text
-   [ Protein Production ] ──(Synthesis)──> [ Soluble Monomers ]
-                                                  │
-                                                  │ (Axis A: Rate-Limiting Step)
-                                                  v
-   [ Clearance System ] <──(Glymphatic)── [ Primary Nucleation ]
-          (BBB Shuttle)                           │
-                                                  │ (Seeding & Spreading)
-                                                  v
-   [ Plaque/Tangle Formation ] <───────── [ Secondary Aggregation ]
+    (🧬) DNA Transcription
+             |
+             v
+    (✨) Protein Synthesis [ Soluble Monomers ]
+             |
+             | ─── (Rate-Limiting Step: Nucleation) ───┐
+             v                                         |
+    (🌊) Glymphatic Clearance <───┐                    v
+             |                    |           (⚠️) Primary Nucleation
+    (💉) BBB Shuttle Export       |             [ Misfolded Seed ]
+             |                    |                    |
+             └────────────────────┘                    | (Seeding & Spreading)
+                                                       v
+    (🪨) Plaque Formation <─────────────── (🧬) Secondary Aggregation
+       [ Insoluble Tangles ]                     [ Fibril Growth ]
 ```
 
 ---

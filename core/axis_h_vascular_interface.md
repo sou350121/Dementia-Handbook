@@ -8,19 +8,21 @@
 ## 2. 逻辑架构图 (ASCII Framework)
 
 ```text
-    [ Vascular Health ] <----(Lifestyle / Axis C)
-            |
-    +-------+-------+
-    |               |
-[ Pericyte Loss ] [ Endothelial Leak ]
-        |               |
-        v               v
-[ Capillary Stasis ] [ Fibrinogen Leakage ] --(Axis B)--> [ Inflammation ]
-        |               |                                  |
-        +-------+-------+                                  |
-                |                                          v
-                v                                   [ Neuronal Death ]
-        [ Chronic Hypoxia ] ----------------------> [ Synaptic Loss ]
+    (❤️) Vascular Health <─── (🏃) Axis C: Lifestyle
+             |
+      ┌──────┴──────┐
+      |             |
+ (⚠️) Pericyte   (💧) Endothelial
+     Loss           Leakage
+      |             |
+      v             v
+ (🛑) Capillary  (🛡️) Fibrinogen ───> (🔥) Neuroinflammation
+      Stasis         Entry                (Axis B)
+      |             |                     |
+      └──────┬──────┘                     |
+             |                            v
+             v                     (☠️) Neuronal Loss
+      (📉) Chronic Hypoxia ─────> (🔌) Synaptic Decay
 ```
 
 ---

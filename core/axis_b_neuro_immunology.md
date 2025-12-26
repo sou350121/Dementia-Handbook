@@ -6,17 +6,17 @@
 ## 1. 神经免疫交互作用图 (Neuro-Immune Interaction)
 
 ```text
-   [ Peripheral Blood ]             ||             [ CNS / Brain ]
-                                    ||
-   ( T-cells / Myeloid ) ───🚪──▶️  ||  ───💥───> [ DAM Microglia ]
-          Patrol                    ||             (Activated)
-                                    ||                 │
-   [ Gut Microbiome ]               ||                 │
-          │                         ||         [ Neuroinflammation ]
-          └───(SCFAs)───> [ Metabolic Gate ]            │
-                                    ||                 │
-                                    ||         [ ☠️ Neuronal Loss ]
-                                    ||
+    [ 🩸 Peripheral Blood ]          ||          [ 🧠 CNS / Brain ]
+                                     ||
+    (🛡️) T-cells / Myeloid           ||   (🔥) Chronic Inflammation
+             |                       ||             ^
+             | ─── (🚪 BBB Gate) ───>||             |
+             v                       ||             | (Cytokines)
+    (🦠) Gut Microbiome              ||             |
+             |                       ||      (⚠️) DAM Microglia
+             └─ (🍬 SCFAs) ───> [ Metabolic ] ──> [ State Shift ]
+                                  [ Link ]          (Homeostatic -> Toxic)
+                                     ||
                              ( BLOOD-BRAIN BARRIER )
 ```
 
@@ -29,7 +29,7 @@
 
 ## 3. 关键研究线索 (Key Clues)
 
-### A. 微胶质细胞 (Microglia) 的双向性
+### A. 微胶质细胞 (Microglia) 的双相性
 - **传统认知**：Microglia 只有 M1 (促炎) 与 M2 (抑炎) 两种状态。
 - **2024-2025 发现**：单细胞测序 (scRNA-seq) 揭示了 **DAM (Disease-Associated Microglia)** 的细分状态。部分 DAM 在早期其实具有保护性（负责吞噬 Aβ），但在晚期则转变为神经毒性。
 - **线索 (Clue)**：治疗时机是关键。在早期活化 DAM 可能有益，但在中晚期则需抑制其促炎路径。
@@ -47,7 +47,7 @@
 
 ## 5. 待验证假设 (Actionable Hypotheses)
 - **假设 1**：通过调节肠道菌群产生的代谢物，是否能间接改变 Microglia 的表型？
-- **假设 2**：阻断特定趋化因子 (Chemokines) 阻止 T 细胞进入大脑，能否延缓认知下降？
+- **假设 2**：阻断特定趋化因子 (Chemokines) 阻止 T细胞进入大脑，能否延缓认知下降？
 
 ---
 
