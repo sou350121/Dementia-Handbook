@@ -36,6 +36,7 @@
 - [Nature Comm 2025: Pesticides & Neuroinflammation](reports/2025/pesticides_neuroinflammation_2025.md)
 
 #### Advanced Simulations & Cross-Axis
+- [Retrograde Analysis: Clinical Trial Failures](reports/advanced/clinical_trial_failure_analysis.md)
 - [Brain Digital Twin (BDT) Framework](reports/advanced/brain_digital_twin_2025.md)
 - [AI Simulation of PM2.5 BBB Penetration](reports/advanced/ai_pm25_bbb_simulation.md)
 - [Systemic Clearance of Env Toxins](reports/advanced/systemic_clearance_env_toxins.md)
