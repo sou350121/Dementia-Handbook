@@ -12,9 +12,9 @@
 - **Spatial Transcriptomics (空間轉錄組)**：精確定位了受運動影響的神經元生態位 (Niches)。
 - **Epigenetic Mapping**：證明運動改變了特定啟動子 (Promoters) 的甲基化狀態。
 
-## 4. 下游研究方向 (Downstream Clues)
-- **Drug Mimetic (藥物模仿)**：是否能開發出一種小型分子，模仿運動誘導的轉錄因子激活？
-- **Dosage Response**：運動強度與基因表達恢復之間的非線性關係研究。
+## 5. 參考文獻 (References)
+- **Neva-Calvo, A., et al. (2025).** Exercise-induced genetic reprogramming in the AD brain. *Nature Neuroscience*.
+- **Wrann, C. D., et al. (2024).** Irisin mediates the cognitive benefits of exercise in Alzheimer's disease. *Nature Metabolism*.
 
 ---
 [回到目錄](../README.md)

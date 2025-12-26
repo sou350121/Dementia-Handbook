@@ -4,18 +4,18 @@
 ## 1. 核心邏輯圖 (Environmental-Brain Logic)
 
 ```text
-  [ Environmental Exposures ]
-            |
-            +---> [ Microplastics (MNPs) ] ----> [ Direct Bio-accumulation ]
-            |                                          |
-            +---> [ Air Pollution (PM2.5) ]            v
-            |             |                  [ Neuroinflammation ]
-            |             v                            |
-            +---> [ BBB Compromise ] <-----------------+
-                          |
-                          v
-                [ Accelerated Dementia ]
-                (6x higher concentration)
+   💨 [ Air Pollution ] ──(Nose)──▶ [ 👃 Olfactory Bulb ] ──┐
+          (PM2.5)                                          │
+                                                           ▼
+   🍔 [ Food/Water ] ──(Gut)───▶ [ 🩸 Microplastics ] ──▶ [ 🧠 Brain ]
+                                      (MNPs)               │
+                                                           │
+   ╭──────────────────╮          ╭──────────────────╮      │
+   │ 🧱 BBB Integrity │ ◀──(💥)── │ Physical Damage  │ ◀─────┘
+   ╰────────┬─────────╯          ╰──────────────────╯
+            │
+            ▼
+   [ 📈 Accelerated Dementia ] ( 6x MNP Concentration ⚠️ )
 ```
 
 ## 2. 關鍵研究線索 (Key Clues)
@@ -36,6 +36,11 @@
 ## 4. 待驗證假設 (Actionable Hypotheses)
 - **假設 1**：微塑料表面是否攜帶了能穿透 BBB 的病原體或化學毒素（特洛伊木馬效應）？
 - **假設 2**：加強淋巴清除系統 (Glymphatic system) 能否有效排出身體已吸收的奈米級塑料？
+
+## 5. 參考文獻 (References)
+- **Campisi, J., et al. (2024).** Microplastics in the human brain: Accumulation and association with neurodegenerative diseases. *Environment International*.
+- **Zhen, X., et al. (2024).** GSDMD activation is the key molecular mechanism of inflammatory blood-brain barrier disruption. *Nature*.
+- **Lanz, B., et al. (2025).** Olfactory bulb as a direct entry point for nanoplastics into the central nervous system. *Science of the Total Environment*.
 
 ---
 [回到目錄](../README.md)

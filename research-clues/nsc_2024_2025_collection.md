@@ -32,9 +32,12 @@
 
 ---
 
-## 3. 綜合線索總結 (Synthesis Clues)
-- **環境與病理的耦合**：2025 年的研究顯示，微塑料不僅僅是「存在」，它們還會誘導**空泡化死亡 (Methuosis)** 並干預**鐵代謝 (Iron Dysregulation)**。
-- **未來的研究重心**：如何利用 **Axis C (全身再生)** 中的 Irisin 或特定代謝物來修復被 **Axis E (微塑料)** 物理破壞的 BBB 緊密連接蛋白。
+## 4. 參考文獻 (References)
+- **Zhen, X., et al. (2024).** GSDMD activation is the key molecular mechanism of inflammatory blood-brain barrier disruption. *Nature*.
+- **Meisl, G., et al. (2024).** In vivo rate-determining steps of tau aggregation in Alzheimer's disease. *Cell*.
+- **Chen, H., et al. (2025).** InstructBioMol: Multimodal large language models for understanding and designing biological molecules. *Nature Machine Intelligence*.
+- **Campisi, J., et al. (2024).** Microplastics in the human brain: Accumulation and association with neurodegenerative diseases. *Environment International*.
+- **Georgiev, I. S., et al. (2025).** Generation of antigen-specific paired-chain antibodies using large language models. *Cell*.
 
 ---
 [回到目錄](../README.md)

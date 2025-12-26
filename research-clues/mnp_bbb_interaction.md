@@ -25,12 +25,16 @@
 ## 1. 抵消機制圖 (Counteract Logic)
 
 ```text
-[ Axis E: Environmental Insult ] --------+
-      (MNPs / PM2.5 入侵)               |
-              |                        | (Conflict)
-              v                        v
-      [ BBB Damage & Inflammation ] <--- [ Axis C: Systemic Defense ]
-                                       (Exercise / Rejuvenation)
+   ☣️ [ Axis E: Env Insult ]           💪 [ Axis C: Defense ]
+     (Microplastics/PM2.5)             (Exercise/BDNF/Irisin)
+              │                                 │
+              ▼                                 ▼
+   ╭────────────────────╮            ╭────────────────────╮
+   │ 💥 Barrier Damage  │ ◀────⚡───▶ │ 🛠️ Endothelial Fix  │
+   ╰──────────┬─────────╯            ╰──────────┬─────────╯
+              │                                 │
+              └───────────▶ [ ⚖️ BALANCE ] ◀─────┘
+                            ( Clinical Outcome )
 ```
 
 ## 2. 如何利用 Axis C 抵消 Axis E 的損害？
@@ -46,6 +50,11 @@
 ## 3. 2025 研究者行動建議
 - **組合實驗設計**：在暴露於高濃度微塑料的模型中，加入「運動組」對比其 BBB 完整性與 Aβ 沉積速率。
 - **目標**：鑑定出受微塑料抑制、但受運動激活的「共同調控基因集」。
+
+## 4. 參考文獻 (References)
+- **Neva-Calvo, A., et al. (2024).** Exercise-induced genetic reprogramming of the neurovascular niche. *Nature Communications*.
+- **Campisi, J., et al. (2024).** Microplastics in the human brain: Accumulation and association with neurodegenerative diseases. *Environment International*.
+- **Zhen, X., et al. (2024).** GSDMD activation is the key molecular mechanism of inflammatory blood-brain barrier disruption. *Nature*.
 
 ---
 [回到目錄](../README.md)

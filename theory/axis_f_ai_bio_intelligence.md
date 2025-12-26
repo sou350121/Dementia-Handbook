@@ -4,16 +4,18 @@
 ## 1. 核心邏輯圖 (Bio-AI Convergence)
 
 ```text
-  [ Biological Data ]          |          [ AI Methodologies ]
-                               |
-  (Sequences/Structures) ----->|-----> [ Protein Language Models (pLMs) ]
-                               |                |
-  (BBB Physics/Dynamics) ----->|-----> [ Physics-Informed NNs (PINNs) ]
-                               |                |
-  (Clinical/Imaging/Omics) --->|-----> [ Multimodal Foundation Models ]
-                               |                |
-                               v                v
-                    [ Digital Twin of Neurodegeneration ]
+   [ 🧬 Biology ]                   [ 🤖 Machine Intelligence ]
+          │                                     │
+   (Proteins) ───[ pLMs ]──────────────────────▶ (Evolutionary Syntax)
+          │                                     │
+   (Physics)  ───[ PINNs ]─────────────────────▶ (PDE-Informed Loss)
+          │                                     │
+   (Multi-Omics) ───[ Foundation Models ]──────▶ (Semantic Latent Space)
+          │                                     │
+          ╰──────────────────┬──────────────────╯
+                             ▼
+               [ 💎 Digital Twin of Brain ]
+                 ( Precision Diagnostics )
 ```
 
 ## 2. 關鍵結合方法論 (Detailed Methodologies)
@@ -42,6 +44,11 @@
 ## 3. 下游研究方向 (Downstream Intelligence)
 - **自適應藥物設計**：AI 根據患者的 Axis C (全身代謝數據) 自動生成量身定制的「基因重編程」藥物分子。
 - **動態退化軌跡預測**：結合 PINNs 與患者縱向數據，實現對失智病程精確到「月」的預測。
+
+## 4. 參考文獻 (References)
+- **Chen, H., et al. (2025).** InstructBioMol: Multimodal large language models for understanding and designing biological molecules. *Nature Machine Intelligence*.
+- **Georgiev, I. S., et al. (2025).** Generation of antigen-specific paired-chain antibodies using large language models. *Cell*.
+- **Zheng, M., et al. (2024).** EquiScore: A unified interaction scoring method for protein-ligand interactions. *Nature Machine Intelligence*.
 
 ---
 [回到目錄](../README.md)

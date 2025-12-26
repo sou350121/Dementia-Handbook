@@ -15,7 +15,13 @@
 - **基礎**：蛋白動力學速率控制 (Axis A)。
 - **動力**：免疫狀態與炎症調節 (Axis B)。
 - **環境**：全身系統性因素與基因重編程 (Axis C)。
-- **工具**：空間組學與 AI 模擬 (Axis D)。
+- **工具**：空間組學與 AI 模擬 (Axis D/F)。
+
+## 4. 關鍵参考文献 (Key References)
+- **Meisl, G., et al. (2024).** In vivo rate-determining steps of tau aggregation in Alzheimer's disease. *Cell*.
+- **Zhen, X., et al. (2024).** GSDMD activation is the key molecular mechanism of inflammatory blood-brain barrier disruption. *Nature*.
+- **Chen, H., et al. (2025).** InstructBioMol: Multimodal large language models for understanding and designing biological molecules. *Nature Machine Intelligence*.
+- **Neva-Calvo, A., et al. (2025).** Exercise-induced genetic reprogramming in the AD brain. *Nature Neuroscience*.
 
 ---
 *Created by DRS Research Intelligence Team, 2025.*

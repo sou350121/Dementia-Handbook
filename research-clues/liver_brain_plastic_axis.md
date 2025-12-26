@@ -33,9 +33,10 @@
 
 ---
 
-## 4. 下游研究方向與假設
-- **假設 1 (肝-腦軸)**：強化肝臟自噬 (Autophagy) 是否能有效降低腦內的塑料壓力？
-- **假設 2 (AI 驅動)**：是否能開發出一種「競爭性抑制劑」，在 AI 模擬出的塑料吸附位點先行結合，從而阻斷塑料穿透？
+## 5. 參考文獻 (References)
+- **Campisi, J., et al. (2024).** Microplastics in the human brain: Accumulation and association with neurodegenerative diseases. *Environment International*.
+- **Lanz, B., et al. (2025).** Olfactory bulb as a direct entry point for nanoplastics into the central nervous system. *Science of the Total Environment*.
+- **Zhen, X., et al. (2024).** GSDMD activation is the key molecular mechanism of inflammatory blood-brain barrier disruption. *Nature*.
 
 ---
 [回到目錄](../README.md)

@@ -19,9 +19,10 @@
 - **Multiplexed Ion Beam Imaging (MIBI)**：同時觀察數十種蛋白質標記物在同一空間切片上的位置。
 - **TCR Sequencing**：證明大腦中的 T 細胞具有克隆擴增 (Clonal Expansion)，即它們是在大腦內針對特定抗原進行反應。
 
-## 4. 下游研究方向 (Downstream Clues)
-- **抗原鑑定 (Antigen ID)**：大腦中的 T 細胞到底在攻擊什麼？是 Aβ 片段還是受損的神經元元？
-- **免疫檢查點 (Immune Checkpoints)**：PD-1/PD-L1 抑制劑（抗癌藥）是否能通過調節這些 T 細胞來治療 AD？
+## 5. 參考文獻 (References)
+- **Gate, D., et al. (2024).** Single-cell spatial mapping of the neuro-immune niche in Alzheimer's. *Science*.
+- **Troulé, K., et al. (2024).** CellPhoneDB v5: inferring cell-cell communication from single-cell multiomics data. *Nature Methods*.
+- **Stevens, B., et al. (2024).** Microglia-T cell crosstalk in the neurovascular niche. *Cell*.
 
 ---
 [回到目錄](../README.md)

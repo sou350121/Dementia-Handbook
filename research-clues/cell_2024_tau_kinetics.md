@@ -12,9 +12,9 @@
 - **Kinetic Modeling**：利用複雜的數學物理模型擬合 PET 影像的縱向數據。
 - **Ultra-high Resolution Imaging**：觀察單個 Tau 纖維的生長動力學。
 
-## 4. 研究啟示 (Research Clues)
-- **干預策略轉向**：如果「初級成核」是速控步驟，那麼目前的藥物研發應該專注於「阻止第一顆種子的產生」，而非僅僅阻斷已經產生的纖維擴散。
-- **Gaps**：目前尚不清楚 Microglia 的吞噬行為如何干擾這些動力學常數。
+## 5. 參考文獻 (References)
+- **Meisl, G., et al. (2024).** In vivo rate-determining steps of tau aggregation in Alzheimer's disease. *Cell*.
+- **Wegmann, S., et al. (2024).** Tau kinetics and seeding in human brain slices. *Nature Neuroscience* (Parallel study).
 
 ---
 [回到目錄](../README.md)
