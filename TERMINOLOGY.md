@@ -23,6 +23,8 @@
 | **MNPs (Micro/Nanoplastics)** | 微塑料與奈米塑料 | Axis E | 環境中直徑 <5mm (Micro) 或 <1μm (Nano) 的塑料碎片，能穿透 BBB 進入大腦。 |
 | **Protein Corona** | 生物冠 | Axis E | 進入生物體的塑料顆粒表面吸附的一層血漿蛋白，決定了其生物學歸宿與穿透力。 |
 | **GSDMD (Gasdermin D)** | 細胞焦亡蛋白 | Axis B/E | 被激活後在細胞膜上形成孔道，引發細胞焦亡並導致 BBB 完整性破裂。 |
+| **GENUS** | 感覺神經夾帶激發 | Axis A/B | 通過 40Hz 的光/聲刺激誘導大腦產生 Gamma 波，促進 Aβ 清除與免疫調節。 |
+| **VIP (Vasoactive Intestinal Peptide)** | 血管活性腸肽 | Axis A/C | 40Hz 刺激下釋放的關鍵神經肽，能擴張血管並增強動脈搏動，驅動類淋巴系統。 |
 | **Ferroptosis** | 鐵死亡 | Axis E/B | 一種依賴於鐵的程序性細胞死亡形式，常由重金屬暴露引發的氧化應激觸發。 |
 | **Histone Acetylation** | 組蛋白乙酰化 | Axis E/C | 一種表觀遺傳修飾，農藥暴露可透過此機制長期「啟動」免疫細胞。 |
 | **Noise-induced Arousal** | 噪音誘導覺醒 | Axis E/A | 噪音導致藍斑核釋放去甲腎上腺素，物理性關閉類淋巴清除系統。 |
