@@ -33,3 +33,9 @@
 - [ ] Complete HBV Serology Case Studies
 - [ ] Final Comprehensive Review
 
+## 🔬 Phase 6: Advanced Research & Technology
+- [ ] [Module 12: AI & Machine Learning in Hepatitis Diagnosis](modules/12_ai_diagnostics_research.md)
+    - [ ] Core Algorithms (RF, NB, KNN, SVM)
+    - [ ] Data Preprocessing (SMOTE, SFS)
+    - [ ] Benchmarks & Clinical Accuracy
+
