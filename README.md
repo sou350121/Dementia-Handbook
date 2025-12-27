@@ -10,36 +10,33 @@
 ## 🗺️ 逻辑全景图 (The Logic Landscape)
 
 ```text
-    [ 🌐 外部驱动与时间轴 (Upstream Drivers) ]
-    ( 🌍 Axis E: Env ) ────────────────┐
-                                       ├──▶ [ 🔄 Systemic Tone ] ───▶ [ 🩸 Axis H: Vascular/BBB ]
-    ( ⏳ Axis K: Aging Stress ) ───────┘                 │ (屏障完整性)
-                                                         ▼
-                                   [ ⚙️ Processing ]  ◀──┼──▶  [ 🛡️ Modulation ]
-                                   ( 😴 Axis G )  ◀──▶ ( 🛡️ Axis B )
-                                         │                 │
-                                         ▼                 ▼
-                              [ 🧪 Pathological Core ]  ◀──┼──▶  [ 🍎 Metabolic Crisis ]
-                              ( 🧪 Axis A: Proteostasis )    ( 🍎 Axis I )
-                                         │
-                                         ▼
-                              [ 👁️ Diagnostic Window ]
-                              ( 👁️ Axis J: Ocular-Brain )
+[Upstream Drivers]
+  (Axis E: Env)  ----\
+                      +--> [Systemic Tone] --> (Axis H: Vascular/BBB)
+  (Axis K: Aging) ----/                       |
+                                              v
+                                   (Axis G: Sleep/Glymphatic) <--> (Axis B: Neuro-Immune)
+                                              |
+                                              v
+                                   (Axis A: Proteostasis)     <--> (Axis I: Metabolic)
+                                              |
+                                              v
+                                   (Axis J: Ocular-Brain Window)
 
-    ─────────────────────────────────────────────────────────────────
-    [ 🧬 Axis K: Intervention Branch (Rejuvenation) ]
-    ( Senolytics / Epigenetic Reset ) ───▶ ( ↓SASP / ↓Inflammation )
-                │               │                 │
-                ├──────────────▶└──────────────▶ [ 🛡️ Axis B ]  (免疫回正)
-                ├──────────────────────────────▶ [ 🩸 Axis H ]  (屏障稳定)
-                └──────────────────────────────▶ [ 🍎 Axis I ]  (代谢救助)
+---------------------------------------------------------------------
+[Axis K: Intervention Branch]
+  (Senolytics / Epigenetic Reset)
+            |
+            +--> (↓SASP / ↓Inflammation) --> (Axis B: Immune Reset)
+            +-----------------------------> (Axis H: BBB Stabilize)
+            +-----------------------------> (Axis I: Metabolic Rescue)
 
-    ═══════════════════════════════════════════════════════════════
-    [ 🔍🤖 Axis D/F: 观测-建模层 (Observation-Modeling Layer) ]
-    ( Spatial Omics / Proteomics / OCT-A ) + ( AI/BDT/BCI Simulation )
-       |            |            |            |            |
-       v            v            v            v            v
-      E/K          C/H          G/B          A/I          J
+=====================================================================
+[Axis D/F: Observation-Modeling Layer (covers the whole chain)]
+  Axis D (observe): Spatial Omics / Proteomics / OCT-A
+  Axis F (model)  : AI / BDT / BCI Simulation
+
+  Coverage:  (E/K) --> (C/H) --> (G/B) --> (A/I) --> (J)
 ```
 
 ---
