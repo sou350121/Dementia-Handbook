@@ -32,6 +32,7 @@
 - [Nature 2025: Proteomic Fingerprints (血液蛋白指纹)](reports/2025/nature_2025_proteomic_fingerprints.md)
 - [Nature 2025: Gut TMA & IRAK4 (肠道代谢与胰岛素抵抗)](reports/2025/nature_2025_tma_irak4.md)
 - [Nature 2025: AI Protein Design (AI 蛋白设计)](reports/2025/nature_2025_ai_protein_design.md)
+- [Nature 2025: BCI & Dementia Rehab (脑机接口康复)](reports/2025/bci_dementia_rehab_2025.md)
 - [Nature 2025: Retina Microvascular Mapping](reports/2025/nature_2025_retina_biomarker.md)
 - [Cell 2025: Lipid-Laden Microglia (LDAM)](reports/2025/cell_2025_lipid_microglia.md)
 - **[Science 2025: Senolytic Intervention for AD](reports/2025/science_2025_senolytics_ad.md)**
