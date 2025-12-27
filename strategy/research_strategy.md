@@ -1,23 +1,23 @@
 # 2025+ Dementia Research Strategy: Blue Oceans
 
-## 1. 範式轉移 (Paradigm Shifts)
-根據 2024-2025 �?NSC 研究，科研人員應關注以下三大範式轉移�?
-- **從「蛋白中心論」轉向「系統生物學�?*：關注大腦與全身（免疫、代謝、微生物）的交互作用�?
-- **從「清除」轉向「韌�?(Resilience)�?*：研究為什麼有些大腦充滿斑塊卻不失智？（Cognitive Reserve 機制）�?
-- **從「統計平均」轉向「精準分型�?*：利�?AI 識別不同的退化亞型�?
+## 1. 范式转移 (Paradigm Shifts)
+根据 2024-2025 年 NSC 研究，科研人员应关注以下三大范式转移：
+- **从“蛋白中心论”转向“系统生物学”**：关注大脑与全身（免疫、代谢、微生物）的交互作用。
+- **从“清除”转向“韧性 (Resilience)”**：研究为什么有些大脑充满斑块却不失智？（Cognitive Reserve 机制）。
+- **从“统计平均”转向“精准分型”**：利用 AI 识别不同的退化亚型。
 
-## 2. 2025+ 高潛力方�?(Blue Oceans)
-1.  **Glymphatic 系統的無創調�?*：如何透過聲、光或睡眠干預物理性地加速腦部代謝廢物清除�?
-2.  **神經免疫生態�?(Neuro-immune Niches)**：研發能精確定位並調節斑塊周圍免疫微環境的智能藥物�?
-3.  **大數據驅動的早期生物標記**：整合穿戴式設備與多組學數據，建立動態退化預測模型�?
+## 2. 2025+ 高潜力方向 (Blue Oceans)
+1.  **Glymphatic 系统的无创调控**：如何通过声、光或睡眠干预物理性地加速脑部代谢废物清除。
+2.  **神经免疫生态位 (Neuro-immune Niches)**：研发能精确定位并调节斑块周围免疫微环境的智能药物。
+3.  **大数据驱动的早期生物标记**：整合穿戴式设备与多组学数据，建立动态退化预测模型。
 
-## 3. 邏輯鏈條總結 (Logic Chain)
-- **基礎**：蛋白動力學速率控制 (Axis A)�?
-- **動力**：免疫狀態與炎症調節 (Axis B)�?
-- **環境**：全身系統性因素與基因重編�?(Axis C)�?
-- **工具**：空間組學與 AI 模擬 (Axis D/F)�?
+## 3. 逻辑链条总结 (Logic Chain)
+- **基础**：蛋白动力学速率控制 (Axis A)。
+- **动力**：免疫状态与炎症调节 (Axis B)。
+- **环境**：全身系统性因素与基因重编程 (Axis C)。
+- **工具**：空间组学与 AI 模拟 (Axis D/F)。
 
-## 4. 關鍵参考文�?(Key References)
+## 4. 关键参考文献 (Key References)
 - **Meisl, G., et al. (2024).** In vivo rate-determining steps of tau aggregation in Alzheimer's disease. *Cell*.
 - **Zhen, X., et al. (2024).** GSDMD activation is the key molecular mechanism of inflammatory blood-brain barrier disruption. *Nature*.
 - **Chen, H., et al. (2025).** InstructBioMol: Multimodal large language models for understanding and designing biological molecules. *Nature Machine Intelligence*.
@@ -25,5 +25,3 @@
 
 ---
 *Created by DRS Research Intelligence Team, 2025.*
-
-
